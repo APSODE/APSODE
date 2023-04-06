@@ -3,8 +3,8 @@ APSODE
 
 <hr>
 
-<h2>APSODE's **`GitHub`** Stats</h2>
-
+APSODE's **`GitHub`** Stats
+-
 ![APSODE's GitHub stats](https://github-readme-stats.vercel.app/api?username=APSODE&show_icons=true&theme=highcontrast)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=APSODE&layout=compact&theme=dark)
@@ -12,13 +12,14 @@ APSODE
 <hr>
 
 
-<h2>APSODE's **`solved.ac`** Grade</h2>
-
+APSODE's **`solved.ac`** Grade
+-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=apsode)](https://solved.ac/apsode)
 
 <hr>
 
-<h2>APSODE's **`Main Skills`**</h2>
+APSODE's **`Main Skills`**
+-
 <h3>Skillful Stacks</h3>
 <span>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>

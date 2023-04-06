@@ -25,22 +25,22 @@ APSODE's **`Main Skills`**
 -
 
 ###📚Skillful Stacks
-<span>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Flask-f5f5f5?style=for-the-badge&logo=Flask&logoColor=black"/>
-</span>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-f5f5f5?style=for-the-badge&logo=Flask&logoColor=black"/>
+
 
 ###👨🏻‍💻 Studying
-<span>
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javaScript&logoColor=black"/>
-    <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Bootstrap5-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
-</span>
+
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javaScript&logoColor=black"/>
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap5-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
+
 
 ###🔎Interested
-<span>
+
     
 ####- langs 
     

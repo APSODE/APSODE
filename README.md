@@ -1,4 +1,5 @@
-<div style="text-align: center;">
+[//]: # (<div style="text-align: center;">)
+<center>
 
 APSODE
 ======
@@ -71,4 +72,6 @@ APSODE's **`Main Skills`**
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white"/>
 </span>
-</div>
+
+[//]: # (</div>)
+</center>

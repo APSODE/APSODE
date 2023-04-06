@@ -26,13 +26,13 @@ APSODE's **`solved.ac`** Grade
 APSODE's **`Main Skills`**
 -
 
-###📚Skillful Stacks
+<h3>📚Skillful Stacks</h3>
 <span>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-f5f5f5?style=for-the-badge&logo=Flask&logoColor=black"/>
 </span>
 
-###👨🏻‍💻 Studying
+<h3>👨🏻‍💻 Studying</h3>
 <span>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javaScript&logoColor=black"/>
@@ -41,10 +41,10 @@ APSODE's **`Main Skills`**
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
 </span>
 
-###🔎Interested
+<h3>🔎Interested</h3>
 
     
-####- langs
+<h4>- langs
 <span>
 <img src="https://img.shields.io/badge/Csharp-239120?style=for-the-badge&logo=Csharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
@@ -52,20 +52,20 @@ APSODE's **`Main Skills`**
 <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </span>
 
-####- Web
+<h4>- Web</h4>
 <span>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </span>
 
-####- Framework
+<h4>- Framework</h4>
 <span>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
 <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=Electron&logoColor=white"/>
 </span>
 
-####- Database
+<h4>- Database</h4>
 <span>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
